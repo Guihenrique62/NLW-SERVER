@@ -1,0 +1,22 @@
+{
+  "name": "nlw-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tsx watch --env-file .env src/server.ts",
+    "prisma": "prisma init --datasource-provider SQLite"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.12.5",
+    "prisma": "^5.12.1",
+    "tsx": "^4.7.2",
+    "typescript": "^5.4.4"
+  },
+  "dependencies": {
+    "fastify": "^4.26.2"
+  }
+}
