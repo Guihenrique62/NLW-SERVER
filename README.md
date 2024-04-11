@@ -22,8 +22,15 @@ This is a project to organize attendees check-ins at an event.
    # Clone the Project
    $ git clone git@github.com:Guihenrique62/Pass-in-Server.git
  ```
+ ```bash
+   # Initialize the project
+   $ npm install
+   $ npm rum dev
+ ```
+```bash
+   # See the Documentation
+   $ http://localhost:3333/docs
+ ```
 
 
-## License 🧾
 
-This project is under the MIT License. See the file License for more details.
