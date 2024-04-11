@@ -5,7 +5,7 @@
 
 ## About 🔍
 
-This is a project to organize attendees check-ins at an event.
+This Node.js application serves as the backend server for an event management and check-in application. Leveraging Fastify and Prisma, it provides robust and efficient routing capabilities for managing events and handling participant check-ins.
 
 ## Tools 🔨
 
